@@ -4,7 +4,7 @@
 
 ### Background
 
-Hi, I'm James. I've been in software engineering for 6+ years I've typically stuck to startups as I love the high impact work and rapid progression. In that time I've been a part of two acquistions and huge growth in one instance exceeding 100m in revenue and 11m users. 
+Hi, I'm James. I've been in software engineering for 6+ years, I've typically stuck to startups as I love the high impact work and rapid progression. In that time I've been a part of two acquistions and huge growth in one instance exceeding 100m in revenue and 11m users. 
 
 I position myself and my skillset as a business focussed engineer. I remain technical and still code alot of the time, my roles recently have transitioned more into technical leadership and management, I've built and grown tech teams at well funded startups and ensured we reached fundraising and business milestones. 
 

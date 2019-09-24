@@ -1,35 +1,17 @@
-## Portfolio
+## About Me
 
 ---
 
-### Category Name 1 
+### Background
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Hi, I'm James. I've been in software engineering for 6+ years I've typically stuck to startups as I love the high impact work and rapid progression. In that time I've been a part of two acquistions and huge growth in one instance exceeding 100m in revenue and 11m users. 
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I position myself and my skillset as a business focussed engineer. I remain technical and still code alot of the time, my roles recently have transitioned more into technical leadership and management, I've built and grown tech teams at well funded startups and ensured we reached fundraising and business milestones. 
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A have a wealth of experience across the stack and still consider myself very much a full-stack engineer. I have a polyglot mindset and typically will use the best tool for the job, as a result I've used many languages and frameworks across my career including Java, Ruby, React and Vue. I love to look at the challenge a company faces, not simply which language it has decided to use. 
 
----
+### Profile
 
-### Category Name 2
+You can view an up to date copy of my CV [here](https://drive.google.com/file/d/1jA-hd4zBK6EugWCu0ujTc0Iu6NMRr1h7/view)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+I am always contactable at info@jamesyorston.co.uk

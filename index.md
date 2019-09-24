@@ -8,7 +8,7 @@ Hi, I'm James. I've been in software engineering for 6+ years, I've typically st
 
 I position myself and my skillset as a business focussed engineer. I remain technical and still code alot of the time, my roles recently have transitioned more into technical leadership and management, I've built and grown tech teams at well funded startups and ensured we reached fundraising and business milestones. 
 
-A have a wealth of experience across the stack and still consider myself very much a full-stack engineer. I have a polyglot mindset and typically will use the best tool for the job, as a result I've used many languages and frameworks across my career including Java, Ruby, React and Vue. I love to look at the challenge a company faces, not simply which language it has decided to use. 
+I have a wealth of experience across the stack and still consider myself very much a full-stack engineer. I have a polyglot mindset and typically will use the best tool for the job, as a result I've used many languages and frameworks across my career including Java, Ruby, React and Vue. I love to look at the challenge a company faces, not simply which language it has decided to use. 
 
 ### Profile
 

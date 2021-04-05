@@ -12,6 +12,6 @@ I have a wealth of experience across the stack and still consider myself very mu
 
 ### Profile
 
-You can view an up to date copy of my CV [here](https://drive.google.com/file/d/1jA-hd4zBK6EugWCu0ujTc0Iu6NMRr1h7/view)
+You can view an up to date copy of my CV [here](https://drive.google.com/file/d/1mG0_Kkpo8SaGYpAYUadbot_lm1_Jh0KM/view?usp=sharing)
 
 I am always contactable at info@jamesyorston.co.uk

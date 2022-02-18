@@ -12,7 +12,7 @@ I have a wealth of experience across the stack and still consider myself very mu
 
 ### Profile
 
-You can view an up to date copy of my CV [here.](https://drive.google.com/file/d/1mG0_Kkpo8SaGYpAYUadbot_lm1_Jh0KM/view?usp=sharing)
+You can view an up to date copy of my CV [here.](https://drive.google.com/file/d/10zmlqV3Dau4m7nJHLZ7DT4yD8HV09RkK/view?usp=sharing)
 
 You can also read a little bit more about some of my [wider industry work.](https://jamesyorston.co.uk/projects)
 

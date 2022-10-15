@@ -8,18 +8,22 @@ standardised exchange of enterprise architecture diagrams between different soft
 You can read the published white paper [here.](https://www.opengroup.org/open-group-archimate-model-exchange-file-format)
 
 ## Industry Discussion
-### Engineering & Company Culture Podcast
-I am very passionate about company and engineering culture - this is one of the biggest challenges in starting
-and leading companies. 
+### Podcasts
+I am lucky enough to have been invited on a few podcasts to discuss the following:
 
-You can listen to a few of my thoughts on this [here.](https://open.spotify.com/episode/2bcpkwYV26NDoSv87kJ1IT?si=gO7KF3CRTGKzYiT625s70Q)
+Company Culture [Spotify](https://open.spotify.com/episode/2bcpkwYV26NDoSv87kJ1IT?si=gO7KF3CRTGKzYiT625s70Q)
+
+Maintaining the balance between Diversity, Culture and Growth [Spotify](https://open.spotify.com/episode/72IrYd80HvphBVAROLlorV)
+
+Startup life, forming Zero Gravity [Spotify](https://open.spotify.com/episode/4GSWvluVcKOpbTrE6ePIMJ?si=5bb24372ef82401b)
 
 ## Mentorship
-### Revive Jobs Engineering Mentor
 
-I am an active engineering mentor on https://revivejobs.tech I offer advice to junior engineers looking to develop their career in technology. 
+I am really passionate about mentorship, I've been part of a few schemes in my time. Originally I mentored on https://revivejobs.tech which is sadly no longer active. I have often given advice to engineers early in their journey, looking to start their own business or join an early stage startup.
+
+Everyone should have a mentor, I've been fortunate to have a few great ones over the years. 
 
 ## Misc
 ### Google Hashcode
 
-Every year I compete with a group of university friends in Google Hashcode! 
+Every year I compete with a group of university friends in Google Hashcode, no winning attempts quite yet!

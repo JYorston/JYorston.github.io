@@ -22,3 +22,9 @@ Mandatory reading if you work in a startup. This is the playbook on how to innov
 
 I would have thought a book on negotiation would have been boring. Not this one. Getting to yes is a fantastic resource to improve your negotiation skills. This is required for all aspects of life, one of my most gifted books. 
 
+[Narconomics: How to Run a Drug Cartel](https://www.goodreads.com/book/show/25159062-narconomics?ref=nav_sb_ss_1_11) - Thomas Wainwright
+
+This is an excellent general economics book. This book explores how drug cartels have been so successful. How they operate as successful enterprises in their own right. It also discusses how legalising narcotics would likely lead to the downfall of the big global cartels. A great read with a unique take. 
+
+
+

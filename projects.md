@@ -17,7 +17,7 @@ Maintaining the balance between Diversity, Culture and Growth [Spotify](https://
 
 Startup life, forming Zero Gravity [Spotify](https://open.spotify.com/episode/4GSWvluVcKOpbTrE6ePIMJ?si=5bb24372ef82401b)
 
-Alfie Whattam Podcast, Zero Gravity overview, tech trends[Spotify](https://open.spotify.com/episode/22Zwo9gV9Zr713uyLGI5OK?si=68904cdde5de40b2)
+Alfie Whattam Podcast, Zero Gravity overview, tech trends [Spotify](https://open.spotify.com/episode/22Zwo9gV9Zr713uyLGI5OK?si=68904cdde5de40b2)
 
 ### Open Source 
 

@@ -13,6 +13,10 @@ I position myself and my skill set as a business-focused engineer. I remain tech
 
 I have a wealth of experience across the stack and still consider myself very much a full-stack engineer at heart. I have a polyglot mindset and typically will use the best tool for the job. As a result, I've used many languages and frameworks throughout my career. I love to look at the challenge a company faces, not simply which language it has decided to use. 
 
+## Articles 
+
+A collection of thoughts I've written down on the topics of [Computer Science, Software Engineering and Startups ](/articles)
+
 ## Profile
 
 You can view an up to date copy of my CV [here.](https://drive.google.com/file/d/10zmlqV3Dau4m7nJHLZ7DT4yD8HV09RkK/view?usp=sharing)
@@ -20,3 +24,5 @@ You can view an up to date copy of my CV [here.](https://drive.google.com/file/d
 You can also read a little bit more about some of my [wider industry work.](https://jamesyorston.co.uk/projects)
 
 I am always contactable at info@jamesyorston.co.uk
+
+

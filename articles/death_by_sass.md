@@ -1,5 +1,5 @@
 # Death by SaaS ☠️
-
+---
 In the last 10 years of building and scaling startups, I've frequently encountered the critical decision: "Buy or Build?" With so many great SaaS solutions available, the choice often seems straightforward, but it can be akin to making a deal with the devil.
 
 As you reach market fit and begin to scale, the reality sets in:

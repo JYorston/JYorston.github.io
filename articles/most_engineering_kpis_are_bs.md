@@ -25,7 +25,7 @@ Now, there are a few frameworks that are well respected in the engineering world
 
 So, how do you measure engineering productivity, and what sort of KPIs should you set?
 
-In 2023, this is my answer:
+In 2024, this is my answer:
 
 First of all, separate engineering health metrics to KPIs. The DORA, SPACE and DevEx frameworks give good ideas on how to set good health metrics. Examples: Cycle Time, Bug Rate, Engineer Sentiment. Watch these closely; high metrics here indicate a healthy engineering setup but don't necessarily mean that the work that is produced is moving the needle for the business. 
 

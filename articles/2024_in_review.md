@@ -75,7 +75,7 @@ With all that said, was it still hard to leave Zero Gravity? Yes, without questi
 
 As mentioned my main life motivator is “Seeing all there is to see”, I take that literally with my main activity outside of work being travel. 
 
-This year, I traveled to 4 new countries, bringing my total to now 42. One of those new countries, one was Carta sponsored (Singapore),I spent time visiting our APAC HQ as my team is responsible for this region as well. Singapore is a really great place, I didn’t know anything about it previously, but the quality of life the average Singaporean has is far higher than in the UK.
+This year, I traveled to 4 new countries, bringing my total to now 42. One of those new countries,was Carta sponsored (Singapore), I spent time visiting our APAC HQ as my team is responsible for this region as well. Singapore is a really great place, I didn’t know anything about it previously, but the quality of life the average Singaporean has is far higher than in the UK, I loved the tropical climate, the people, the food, and the fact that such a big city has a great beach 10 mins drive from the center. 
 
 New Countries: 
 - Singapore
@@ -106,23 +106,23 @@ Overall, I would recommend all of these books, but perhaps surprisingly, I reall
 
 ## Pictures
 Isle of Wight, view of the coast
-![Isle of Wight](../images/IMG_5227.png)
+![Isle of Wight](../images/IMG_5227.jpg)
 
 Top of the mountains in Val Thorens
-![Val Thorens](../images/IMG_5308.png)
+![Val Thorens](../images/IMG_5308.jpg)
 
 Joining Carta!
-![Joining Carta](../images/IMG_5364.png)
+![Joining Carta](../images/IMG_5364.jpg)
 
 Hilltop churches in Georgia's Kazbegi Region
-![Georgia](../images/IMG_6134.png)
+![Georgia](../images/IMG_6134.jpg)
 
 San Francisco
-![San Francisco](../images/IMG_6310.png)
-![San Francisco](../images/IMG_6364.png)
+![San Francisco](../images/IMG_6310.jpg)
+![San Francisco](../images/IMG_6364.jpg)
 
 Singapore
-![Singapore](../images/IMG_6723.png)
+![Singapore](../images/IMG_6723.jpg)
 
 
 

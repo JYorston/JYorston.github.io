@@ -96,11 +96,11 @@ I have read considerably less this year than in previous years. This is almost e
 
 Overall, I would recommend all of these books, but perhaps surprisingly, I really enjoyed VC: An American History, as it covers such a range of topics that I am personally interested in; History, Entrepreneurship, Economics and Technology. 
 
-- [VC: An American History by Tom Nicholas | Goodreads](https://www.goodreads.com/book/show/42449471-vc)  
-- [Accounts Demystified: The Astonishingly Simple Guide to Accounting by Anthony Rice | Goodreads](https://www.goodreads.com/book/show/12035933-accounts-demystified)  
-- [Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist by Brad Feld | Goodreads](https://www.goodreads.com/en/book/show/11865558-venture-deals)  
-- [A Brief History of Time by Stephen Hawking | Goodreads](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)  
-- [Troy by Stephen Fry | Goodreads](https://www.goodreads.com/book/show/53443339-troy)  
+[VC: An American History by Tom Nicholas | Goodreads](https://www.goodreads.com/book/show/42449471-vc)  
+[Accounts Demystified: The Astonishingly Simple Guide to Accounting by Anthony Rice | Goodreads](https://www.goodreads.com/book/show/12035933-accounts-demystified)  
+[Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist by Brad Feld | Goodreads](https://www.goodreads.com/en/book/show/11865558-venture-deals)  
+[A Brief History of Time by Stephen Hawking | Goodreads](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)  
+[Troy by Stephen Fry | Goodreads](https://www.goodreads.com/book/show/53443339-troy)  
 
 ## Pictures
 ![image info](./images/IMG_5227.png)

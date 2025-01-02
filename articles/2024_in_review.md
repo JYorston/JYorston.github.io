@@ -103,4 +103,16 @@ Overall, I would recommend all of these books, but perhaps surprisingly, I reall
 [Troy by Stephen Fry | Goodreads](https://www.goodreads.com/book/show/53443339-troy)  
 
 ## Pictures
-![image info](./images/IMG_5227.png)
+![Isle of Wight](../images/IMG_5227.png)
+![Val Thorens](../images/IMG_5308.png)
+![Joining Carta](../images/IMG_5364.png)
+![Georgia](../images/IMG_6134.png)
+![San Francisco](../images/IMG_6310.png)
+![San Francisco](../images/IMG_6364.png)
+![Singapore](../images/IMG_6723.png)
+
+
+
+
+
+

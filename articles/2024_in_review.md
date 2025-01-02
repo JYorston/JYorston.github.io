@@ -23,7 +23,8 @@ Zero Gravity endured all of these macro issues (one might say due to savvy manag
 To that end, the first goal I am really pleased with is that my 2024 Zero Gravity mentee Mahdi secured at place at Kings College London to study Computer Science. Helping the next generation of software engineers has always been something I’ve been passionate about, but what my Zero Gravity experience taught me this year, is that I am probably now too out of touch with the university/college admissions process to offer as much value as I once could. So instead I will transition my Zero Gravity account to a career mentor account and help engineers early in their career, where my experiences are far more recent. If you are interested in mentoring early career engineers in the UK, then you too can do so here [Mentor Signup](https://app.zerogravity.co.uk/users/sign_up?type=career-mentor). 
 
 
-### Work Goals 
+### Unbecoming a CTO
+
 Next, I joined Carta as Director of Engineering for International. Many people asked me, including the team I took over at Carta, why I would leave a startup I helped build from the ground up, that was well funded, to join for a lesser position in a larger organisation. Good question!
 
 Indeed, my own 20 year old self would have said surely I was already living the ultimate dream? In many senses yes and many senses no. 
@@ -104,12 +105,23 @@ Overall, I would recommend all of these books, but perhaps surprisingly, I reall
 
 
 ## Pictures
+Isle of Wight, view of the coast
 ![Isle of Wight](../images/IMG_5227.png)
+
+Top of the mountains in Val Thorens
 ![Val Thorens](../images/IMG_5308.png)
+
+Joining Carta!
 ![Joining Carta](../images/IMG_5364.png)
+
+Hilltop churches in Georgia's Kazbegi Region
 ![Georgia](../images/IMG_6134.png)
+
+San Francisco
 ![San Francisco](../images/IMG_6310.png)
 ![San Francisco](../images/IMG_6364.png)
+
+Singapore
 ![Singapore](../images/IMG_6723.png)
 
 

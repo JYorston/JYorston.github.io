@@ -36,7 +36,7 @@ Zero Gravity was at the stage of a startup whereby I had to do everything I real
 - ISO27001 & 9001 Audits
 - Infosec due diligence for large corporate clients 
 
-The client due diligence was particularly painful as we were selling an awful lot, and our customers were exclusively mega-enterprise clients i.e. global banks. This meant that the volume of work for each client was enormous, and we weren’t yet at the point that hiring specifically for this role was worth it. Even though I did not enjoy this, I was surprisingly good at it and we always passed with flying colours, I’m still pleased with the dashboard I helped setup to help optimise my time here: https://security.zerogravity.co.uk/. As an aside, I would definitely recommend Safebase as a product if you are having similar challenges https://safebase.io/.
+The client due diligence was particularly painful as we were selling an awful lot, and our customers were exclusively mega-enterprise clients i.e. global banks. This meant that the volume of work for each client was enormous, and we weren’t yet at the point that hiring specifically for this role was worth it. Even though I did not enjoy this, I was surprisingly good at it and we always passed with flying colours, I’m still pleased with the dashboard I helped setup to help optimise my time here: [security.zerogravity.co.uk](https://security.zerogravity.co.uk). As an aside, I would definitely recommend [Safebase](https://safebase.io/) as a product if you are having similar challenges.
 
 So, what parts of the (startup) CTO job did I enjoy the most:
 
@@ -96,11 +96,12 @@ I have read considerably less this year than in previous years. This is almost e
 
 Overall, I would recommend all of these books, but perhaps surprisingly, I really enjoyed VC: An American History, as it covers such a range of topics that I am personally interested in; History, Entrepreneurship, Economics and Technology. 
 
-[VC: An American History by Tom Nicholas | Goodreads](https://www.goodreads.com/book/show/42449471-vc)  
-[Accounts Demystified: The Astonishingly Simple Guide to Accounting by Anthony Rice | Goodreads](https://www.goodreads.com/book/show/12035933-accounts-demystified)  
-[Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist by Brad Feld | Goodreads](https://www.goodreads.com/en/book/show/11865558-venture-deals)  
-[A Brief History of Time by Stephen Hawking | Goodreads](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)  
-[Troy by Stephen Fry | Goodreads](https://www.goodreads.com/book/show/53443339-troy)  
+- [VC: An American History by Tom Nicholas](https://www.goodreads.com/book/show/42449471-vc)  
+- [Accounts Demystified: The Astonishingly Simple Guide to Accounting by Anthony Rice](https://www.goodreads.com/book/show/12035933-accounts-demystified)  
+- [Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist by Brad Feld](https://www.goodreads.com/en/book/show/11865558-venture-deals)  
+- [A Brief History of Time by Stephen Hawking](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)  
+- [Troy by Stephen Fry](https://www.goodreads.com/book/show/53443339-troy)  
+
 
 ## Pictures
 ![Isle of Wight](../images/IMG_5227.png)

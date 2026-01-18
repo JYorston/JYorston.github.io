@@ -4,6 +4,30 @@
 @import "{{ site.theme }}";
 
 /* ============================================
+   iOS Safari Viewport Fix
+   Prevents layout shift when address bar hides/shows
+   ============================================ */
+html {
+  /* Use fixed height on iOS to prevent resize during scroll */
+  height: -webkit-fill-available;
+}
+
+body {
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+  /* Prevent overscroll bounce that triggers viewport changes */
+  overscroll-behavior-y: none;
+}
+
+/* Force GPU compositing on fixed elements to reduce jank */
+header, footer {
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+/* ============================================
    CSS Variables - Design System
    ============================================ */
 :root {
@@ -307,6 +331,13 @@ header nav a {
 
 /* Tablet/Medium screens - Fix theme's layout issues */
 @media print, screen and (max-width: 960px) {
+  /* Remove fixed positioning on mobile - critical for iOS Safari */
+  header, footer {
+    position: static !important;
+    -webkit-transform: none;
+    transform: none;
+  }
+
   header {
     padding-right: 0 !important;
     padding-left: 0 !important;

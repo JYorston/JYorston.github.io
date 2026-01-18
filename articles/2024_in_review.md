@@ -1,3 +1,10 @@
+---
+layout: default
+title: "2024 in Review: Unbecoming a CTO, Joining Carta and What I've Learned"
+date: 2024-12-01
+excerpt: "2024 was overall a very good year for me, but one that started with quite a lot of mixed emotions."
+---
+
 # 2024 in Review: Unbecoming a CTO, Joining Carta and What I've Learned
 ---
 

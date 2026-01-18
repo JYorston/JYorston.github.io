@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Why Most Software Engineering KPIs are Bullshit and What to Do About it in 2024"
+date: 2023-12-01
+excerpt: "The often inevitable truth of becoming an engineering leader is that you get further and further away from the code."
+---
+
 # Why Most Software Engineering KPIs are Bullshit and What to Do About it in 2024
 ---
 

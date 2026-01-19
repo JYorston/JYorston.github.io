@@ -32,12 +32,10 @@ pre {
   overflow-x: auto;
 }
 
-/* Force GPU compositing on fixed elements to reduce jank */
+/* Override theme's fixed positioning - allow whole page to scroll as one */
 header, footer {
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
+  position: static;
+  float: left;
 }
 
 /* ============================================

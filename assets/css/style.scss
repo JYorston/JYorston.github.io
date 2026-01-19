@@ -8,17 +8,12 @@
    Prevents layout shift when address bar hides/shows
    ============================================ */
 html {
-  /* Use fixed height on iOS to prevent resize during scroll */
-  height: -webkit-fill-available;
   /* Prevent horizontal overflow */
   overflow-x: hidden;
 }
 
 body {
   min-height: 100vh;
-  min-height: -webkit-fill-available;
-  /* Prevent overscroll bounce that triggers viewport changes */
-  overscroll-behavior-y: none;
   /* Prevent horizontal overflow */
   overflow-x: hidden;
 }
